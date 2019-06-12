@@ -1,6 +1,6 @@
 ---
-title: "Peñarol: Audición Partidaria, Fútbol A Lo Peñarol, miércoles 05 de Junio, 2019-06-05"
-excerpt: "El video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del miércoles 05 de Junio, 2019."
+title: "Fútbol A Lo Peñarol - miércoles 05 de Junio - 2019-06-05"
+excerpt: "Audición Partidaria de Peñarol, edición del miércoles 05 de Junio, 2019."
 name: 2019-06-10-video-audicion-miercoles-2019-06-05.md
 category:
   - Audiciones partidarias de Peñarol
@@ -10,11 +10,10 @@ tags:
   - Audición
 ---
 
-<p>
-El video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del miércoles 05 de Junio, 2019.
-Habla Ruibal.
-</p>
-<br>
+El video de la Audición Partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 05 de Junio, 2019.
+Habla **Ruibal**.
+{: .notice--warning}
+
 <div id="media">
 	<center>
 		<table>
