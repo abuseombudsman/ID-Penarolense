@@ -1,6 +1,6 @@
 ---
-title: "Los Hilos de los Ingresos en el Sitio"
+title: "Posts by categories"
 layout: categories
-permalink: /hilos/
+permalink: /categories/
 author_profile: true
 ---
