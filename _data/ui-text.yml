@@ -69,9 +69,8 @@ es: &DEFAULT_ES
   minute_read                : "minuto(s) de lectura"
   share_on_label             : "Compartir en"
   meta_label                 :
-  posts_label                : "Los Ingresos en el Sitio"
-  tags_label                 : "Las Claves en el Sitio:"
-  categories_label           : "Los Hilos en el Sitio:"
+  tags_label                 : "Etiquetas:"
+  categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
   comments_label             : "Deja un comentario"
   comments_title             : "Comentarios"
