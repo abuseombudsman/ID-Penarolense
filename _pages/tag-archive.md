@@ -1,6 +1,6 @@
 ---
-title: "Las Claves de los Ingresos en el Sitio"
-permalink: /claves/
+title: "Posts by tag"
+permalink: /tags/
 layout: tags
 author_profile: true
 ---
