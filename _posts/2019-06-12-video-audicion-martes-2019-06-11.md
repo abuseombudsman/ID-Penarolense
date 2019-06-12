@@ -1,6 +1,6 @@
 ---
 title: "Fútbol A Lo Peñarol - edición del martes 11 de Junio - 2019-06-11"
-excerpt: "El video de la audición partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del martes 11 de junio, 2019."
+excerpt: "Audición partidaria de Peñarol, edición del martes 11 de junio, 2019."
 name: 2019-06-12-video-audicion-martes-2019-06-11.md
 category:
   - Audiciones partidarias de Peñarol
@@ -16,8 +16,6 @@ El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por r
 > El presidente de Peñarol viajo expresamente a Portugal para tratar personalmente con el presidente del Benfica el caso **Lema**
 
 > <cite>Bujiano</cite> en **Fútbol A Lo Peñarol**
-
-@ID-Peñarolense[: .%url%]
 
 <br>
 <div id="media">
