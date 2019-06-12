@@ -1,6 +1,6 @@
 ---
 title: "Fútbol A Lo Peñarol - lunes 03 de junio - 2019-06-03"
-excerpt: "Audición partidaria de Peñarol, edición del lunes 03 de junio 2019
+excerpt: "Audición partidaria de Peñarol, edición del lunes 03 de junio 2019"
 name: 2019-06-10-video-audicion-lunes-2019-06-03.md
 category:
   - Audiciones partidarias de Peñarol
