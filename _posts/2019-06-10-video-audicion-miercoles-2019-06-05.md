@@ -1,6 +1,6 @@
 ---
 title: "Fútbol A Lo Peñarol - miércoles 05 de Junio - 2019-06-05"
-excerpt: "Audición Partidaria de Peñarol, edición del miércoles 05 de Junio, 2019."
+excerpt: "Audición partidaria de Peñarol, edición del miércoles 05 de Junio, 2019."
 name: 2019-06-10-video-audicion-miercoles-2019-06-05.md
 category:
   - Audiciones partidarias de Peñarol
