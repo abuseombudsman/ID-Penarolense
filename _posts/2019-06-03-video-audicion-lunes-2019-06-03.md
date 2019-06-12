@@ -1,5 +1,6 @@
 ---
-title: "Peñarol: Audición Partidaria, Fútbol A Lo Peñarol, lunes 03 de Junio, 2019-06-03"
+title: "Fútbol A Lo Peñarol - lunes 03 de junio - 2019-06-03"
+excerpt: "Audición partidaria de Peñarol, edición del lunes 03 de junio 2019
 name: 2019-06-10-video-audicion-lunes-2019-06-03.md
 category:
   - Audiciones partidarias de Peñarol
@@ -8,16 +9,11 @@ tags:
   - Audición
   - temporada 2019
 ---
-<!--- image1: https://i.imgur.com/t9jAOsM.jpg
-Campeonato: <span>{{ page.Campeonato }}</span><br>
-Fecha: <span>{{ page.Fecha }}</span><br>
-Encuentro: <span>{{ page.Partido }}</span><br>-->
 
-EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del lunes 03 de Junio, 2019.
+El video de la Audición Partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del lunes 03 de Junio, 2019.
+{: .notice--warning}
 
-<br>
-
-<center>
+<div id="media">
 <table>
 <tbody>
   <tr>
@@ -28,12 +24,10 @@ EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio
   <tr>
 		<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 		<td>
-			<div id="media">
-
+			
 <iframe width="560" height="315" src="//ok.ru/videoembed/1279455070899" frameborder="0" allow="autoplay" allowfullscreen></iframe>
 
-</div>
-		</td>
+</td>
     <td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   </tr>
 
@@ -45,3 +39,4 @@ EL video de la Audición Partidaria de Peñarol: Fútbol A Lo Peñarol por radio
 </tbody>
 </table>
 </center>
+</div>
