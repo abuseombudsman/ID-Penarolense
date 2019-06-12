@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Acerca"
+title: "About"
 ---
 
 Identidad Peñarolense tiene como objetivos posibilitar que los peñarolenses puedan escuchar siempre la audición grabada de Fútbol A Lo Peñarol por radio 1010 AM online. Así como también la posibilidad de ver los partidos de Peñarol y la Selección Uruguaya de Fútbol también online en cualquier momento.
