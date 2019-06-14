@@ -4,7 +4,7 @@ excerpt: "Audición partidaria de Peñarol, edición del miércoles 05 de Junio,
 name: 2019-06-10-video-audicion-miercoles-2019-06-05.md
 category:
   - Audiciones partidarias de Peñarol
-tags:
+tag:
   - Audición temporada 2019
 header:
     overlay_color: "#000"
