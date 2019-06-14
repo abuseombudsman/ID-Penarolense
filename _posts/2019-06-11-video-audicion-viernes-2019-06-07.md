@@ -10,7 +10,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: assets/images/wallpaper-3.jpg
-excerpt: "El video de la audición partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del martes 11 de Junio, 2019."
+excerpt: "El video de la Audición Partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del viernes 07 de Junio, 2019."
 ---
 <!---
 Campeonato: <span>{{ page.Campeonato }}</span><br>
