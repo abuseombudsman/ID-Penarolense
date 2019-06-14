@@ -5,9 +5,12 @@ name: 2019-06-11-video-audicion-viernes-2019-06-07.md
 category:
   - Audiciones partidarias de Peñarol
 tags:
-  - Peñarol
-  - temporada 2019
-  - Audición
+  - Audición temporada 2019
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: assets/images/wallpaper-3.jpg
+excerpt: ""
 ---
 <!---
 Campeonato: <span>{{ page.Campeonato }}</span><br>
