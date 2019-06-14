@@ -1,5 +1,5 @@
 main:
-  - title: "Ingresos Año x Año"
+  - title: "Ingresos x Año"
     url: /posts/
   - title: "Posts by Category"
     url: /categories/
