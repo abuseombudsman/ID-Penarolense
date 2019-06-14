@@ -5,9 +5,12 @@ name: 2019-06-10-video-audicion-miercoles-2019-06-05.md
 category:
   - Audiciones partidarias de Peñarol
 tags:
-  - Peñarol
-  - temporada 2019
-  - Audición
+  - Audición temporada 2019
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: assets/images/wallpaper-3.jpg
+excerpt: ""
 ---
 
 El video de la Audición Partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 05 de Junio, 2019.
