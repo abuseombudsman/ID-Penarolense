@@ -1,9 +1,9 @@
 main:
   - title: "Ingresos x Año"
     url: /posts/
-  - title: "Posts by Category"
+  - title: "Hilos del Sitio"
     url: /categories/
-  - title: "Posts by Tag"
+  - title: "Claves del Sitio"
     url: /tags/
   - title: "About"
     url: /about/
