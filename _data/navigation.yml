@@ -5,5 +5,5 @@ main:
     url: /categories/
   - title: "Claves del Sitio"
     url: /tags/
-  - title: "About"
+  - title: "Acerca"
     url: /about/
