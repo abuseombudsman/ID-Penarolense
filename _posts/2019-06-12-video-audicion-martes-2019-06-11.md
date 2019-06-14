@@ -8,6 +8,7 @@ tags:
   - Peñarol
   - temporada 2019
   - Audición
+link: https://hoy-bolivia.tk
 ---
 
 El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del martes 11 de Junio, 2019.
@@ -17,7 +18,7 @@ El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por r
 
 > <cite>Bujiano</cite> en **Fútbol A Lo Peñarol**
 
-[linko](#)(ID-Penarolense)[Github]([links  ])
+[link](#){: style="color:yellow;background:#000;padding:5px;border-radius:5px;"} ID Peñarolense lo guía correcto.
 
 <br>
 <div id="media">
