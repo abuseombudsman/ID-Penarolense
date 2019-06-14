@@ -9,7 +9,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: assets/images/wallpaper-3.jpg
-excerpt: ""
+excerpt: "Peñarol confirmó que dos clubes de Brasil: Palmeiras y San Pablo habrían sondeado..."
 ---
 
 Peñarol confirmó que dos clubes de Brasil: Palmeiras y San Pablo habrían sondeado por cuanto cuesta la ficha del delantero aurinegro Brian 
