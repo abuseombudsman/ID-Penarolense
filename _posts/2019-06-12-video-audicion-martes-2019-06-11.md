@@ -5,9 +5,7 @@ name: 2019-06-12-video-audicion-martes-2019-06-11.md
 category:
   - Audiciones partidarias de Peñarol
 tags:
-  - Peñarol
-  - temporada 2019
-  - Audición
+  - Audición temporada 2019
 link: https://hoy-bolivia.tk
 header:
     overlay_color: "#000"
