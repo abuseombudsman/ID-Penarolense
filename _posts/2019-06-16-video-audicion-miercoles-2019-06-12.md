@@ -11,7 +11,7 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: assets/images/wallpaper-3.jpg
-excerpt: "El video de la audición partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del miércoles 12 de Junio, 2019."
+excerpt: "El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 12 de Junio, 2019."
 ---
 
 El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 12 de Junio, 2019.
@@ -21,7 +21,7 @@ En esta edición se puede escuchar una entrevista al profe Valenzuela, preparado
 
 Además habla Valenzuela de la temporada que se avecina en donde Peñarol empieza su pretemporada que realizará en Miami, Valenzuela habla sobre el trabajo a desarrollarse en Miami.
 
-Peñarol vuelve a los entrenamientos este lunes 17 y viaja el 22 a Miami para realizar su pretemporada.
+**Peñarol** vuelve a los entrenamientos este lunes 17 y viaja el 22 a Miami para realizar su pretemporada.
 {: .notice--primary}
 
  > Peñarol busca un 9 y un volante, el es extranjero y Peñarol ya había intentado el semestre pasado
