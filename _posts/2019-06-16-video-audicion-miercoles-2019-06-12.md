@@ -7,6 +7,11 @@ category:
 tags:
   - Peñarol temporada 2019
 link: https://ok.ru/video/1301163739827
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: assets/images/wallpaper-3.jpg
+excerpt: "El video de la audición partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del miércoles 12 de Junio, 2019."
 ---
 
 El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 12 de Junio, 2019.
