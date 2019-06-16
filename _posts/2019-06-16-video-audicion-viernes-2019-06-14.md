@@ -17,7 +17,7 @@ excerpt: "El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñar
 El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del viernes 14 de Junio, 2019.
 {: .notice--warning}
 
-**Fútbol A Lo Peñarol** entrevistó a **Ezequiel Busquets** jugador de **Peñarol** que representa a la selección sub-20 de Uruguay y que participó del Sudamericano sub-20 y del Mundial sub-20 de Polonia.
+**Fútbol A Lo Peñarol** entrevistó a **Ezequiel Busquets** jugador de **Peñarol** que representa a la selección sub-20 de **Uruguay** y que participó del Sudamericano sub-20 y del Mundial sub-20 de Polonia.
 {: .notice--primary}
 
  > En lo deportivo el mundial fue una experiencia muy linda.
