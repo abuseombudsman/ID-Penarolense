@@ -20,13 +20,13 @@ El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por r
 **Fútbol A Lo Peñarol** entrevistó a **Ezequiel Busquets** jugador de **Peñarol** que representa a la selección sub-20 de Uruguay y que participó del Sudamericano sub-20 y del Mundial sub-20 de Polonia.
 {: .notice--primary}
 
+ > En lo deportivo el mundial fue una experiencia muy linda.
+
+ > <cite>**Ezequiel Busquets**</cite>
+ 
  > **Peñarol** si quiere ganar el trieño, lo ayudaría mucho **David Teranz** actualmente en Atlético Mineiro.
 
  > <cite>Hanania</cite>
-
- > En lo deportivo el mundial fue una experiencia muy linda.
-
- > <cite>Ezequiel Busquets</cite>
 
 <br>
 <div id="media">
