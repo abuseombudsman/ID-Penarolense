@@ -1,5 +1,5 @@
 ---
-title: "Fútbol A Lo Peñarol jueves 13 de Junio 2019-06-12"
+title: "Fútbol A Lo Peñarol jueves 13 de Junio 2019-06-13"
 excerpt: "Audición partidaria de Peñarol, edición del jueves 13 de junio, 2019."
 name: 2019-06-16-video-audicion-jueves-2019-06-13.md
 category:
