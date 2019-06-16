@@ -21,7 +21,7 @@ En esta edición se puede escuchar una entrevista al profe Valenzuela, preparado
 
 Además habla Valenzuela de la temporada que se avecina en donde Peñarol empieza su pretemporada que realizará en Miami, Valenzuela habla sobre el trabajo a desarrollarse en Miami.
 
-**Peñarol** vuelve a los entrenamientos este lunes 17 y viaja el 22 a Miami para realizar su pretemporada.
+**Peñarol** vuelve a los entrenamientos este lunes 17 y viaja el 22 a Miami para realizar su pretemporada en donde jugará 3 partidos entre ellos contra Nacional.
 {: .notice--primary}
 
  > Peñarol busca un 9 y un volante, el es extranjero y Peñarol ya había intentado el semestre pasado
