@@ -1,6 +1,6 @@
 ---
 title: "Fútbol A Lo Peñarol miércoles 12 de Junio 2019-06-12"
-excerpt: "El video de la audición partidaria de Peñarol: Fútbol A Lo Peñarol por radio 1010 AM, edición del miércoles 12 de junio, 2019."
+excerpt: "Audición partidaria de Peñarol, edición del miércoles 12 de junio, 2019."
 name: 2019-06-16-video-audicion-miercoles-2019-06-12.md
 category:
   - Audiciones partidarias de Peñarol
