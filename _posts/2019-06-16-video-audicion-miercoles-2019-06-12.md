@@ -17,14 +17,14 @@ excerpt: "El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñar
 El video de la audición partidaria de Peñarol: **Fútbol A Lo Peñarol** por radio 1010 AM, edición del miércoles 12 de Junio, 2019.
 {: .notice--warning}
 
-En esta edición se puede escuchar una entrevista al profe Valenzuela, preparador físico de Peñarol quién entre otras cosas explica porque Peñarol tuvo tantos lesionados este semestre.
+En esta edición se puede escuchar una entrevista al profe **Valenzuela**, preparador físico de Peñarol quién entre otras cosas explica porque Peñarol tuvo tantos lesionados este semestre.
 
-Además habla Valenzuela de la temporada que se avecina en donde Peñarol empieza su pretemporada que realizará en Miami, Valenzuela habla sobre el trabajo a desarrollarse en Miami.
+Además habla **Valenzuela** de la temporada que se avecina en donde Peñarol empieza su pretemporada que realizará en Miami, **Valenzuela** habla sobre el trabajo a desarrollarse en Miami.
 
 **Peñarol** vuelve a los entrenamientos este lunes 17 y viaja el 22 a Miami para realizar su pretemporada en donde jugará 3 partidos entre ellos contra Nacional.
 {: .notice--primary}
 
- > Peñarol busca un 9 y un volante, el es extranjero y Peñarol ya había intentado el semestre pasado
+ > **Peñarol** busca un 9 y un volante, el es extranjero y **Peñarol** ya había intentado el semestre pasado
 
  > <cite>Fútbol A Lo Peñarol</cite>
 
