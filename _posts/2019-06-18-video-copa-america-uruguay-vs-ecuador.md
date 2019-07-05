@@ -6,7 +6,7 @@ category:
   - Partidos de la Selección Uruguaya
 tags:
   - Copa América 2019
-link: https://ok.ru/video/1303537650355
+link: https://mystream.to/watch/wz1yde9r902s
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
@@ -30,7 +30,7 @@ excerpt: "Copa America Brasil 2019 Grupo C Day 1 Uruguay vs Ecuador Partido Comp
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe width="560" height="315" src="//ok.ru/videoembed/1303537650355" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+						<iframe src="https://embed.mystream.to/wz1yde9r902s" scrolling="no" frameborder="0" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
