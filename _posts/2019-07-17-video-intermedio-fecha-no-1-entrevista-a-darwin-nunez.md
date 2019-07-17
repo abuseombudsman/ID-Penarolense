@@ -1,17 +1,18 @@
 ---
-title: "Peñarol: Darwin Nuñez hace un año estaba lesionado y pensaba dejar"
+title: "Peñarol, Darwin Nuñez: Hace un año estaba lesionado y pensaba dejar (Entrevista)"
 excerpt: "Darwin Nuñez alcanza su mejor forma después de los tres goles a Boston River por la primer jornada del Torneo Intermedio"
 name: 2019-07-17-video-darwin-nunez-intermedio-jornada-1.md
 category:
   - Noticias de Peñarol
 tags:
   - Torneo Intermedio 2019
+  - Entrevistas
 link: 
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: assets/images/wallpaper-3.jpg
-excerpt: "Copa America Brasil 2019 Cuartos de Final Uruguay vs Perú Partido Completo"
+excerpt: "Darwin Nuñez alcanza su mejor forma después de los tres goles a Boston River por la primer jornada del Torneo Intermedio"
 ---
 
 **Darwin Núñez** estaba lesionado hace un año y pensaba largar el fútbol y volver a **Artigas** sin embargo el apoyo del grupo **Peñarol**, lo ayudaron a pasar el mal momento y reponerse de la lesión de los cruzados que lo aquejaba y apostar todo a su carrera de **nueve**. Hoy los resultados no mienten, con los tres goles a Boston River por la primera jornada del **Torneo Intermedio**, Darwin topó su mejor forma desde que juega en primera. 
