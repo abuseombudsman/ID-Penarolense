@@ -65,7 +65,7 @@ Todo esto lo explica **Darwin Núñez** mismo en una entrevista de la audición 
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe width="581" height="385" src="https://www.youtube.com/embed/Rj66u4bSo80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/Rj66u4bSo80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
