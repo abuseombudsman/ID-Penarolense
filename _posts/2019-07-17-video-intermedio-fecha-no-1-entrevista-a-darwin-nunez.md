@@ -7,7 +7,7 @@ category:
 tags:
   - Torneo Intermedio 2019
   - Entrevistas
-link: 
+link: https://youtu.be/Rj66u4bSo80
 image: "https://i.imgur.com/MHq7bpS.jpg"
 header:
     overlay_color: "#000"
@@ -65,7 +65,7 @@ Todo esto lo explica **Darwin Núñez** mismo en una entrevista de la audición 
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe src="" scrolling="no" frameborder="0" width="0" height="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+						<iframe width="581" height="385" src="https://www.youtube.com/embed/Rj66u4bSo80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
