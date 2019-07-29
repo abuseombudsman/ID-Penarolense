@@ -1,6 +1,6 @@
 ---
 permalink: /EtiquetasdeDatosEstructurados/
-title: "Etiquetas de Datos Estructurados según <a href="http://schema.org">schema.org"</a>"
+title: "Etiquetas de Datos Estructurados según schema.org"
 author_profile: true
 header:
     overlay_color: "#000"
