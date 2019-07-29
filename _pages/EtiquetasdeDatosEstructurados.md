@@ -12,7 +12,7 @@ excerpt: ""
 Según <a href="http://schema.org">schema.org</a>, un archivo mantenido por una organización, como lo puede ser un archivo de partidos disputados por el <a href="http://peñarol.org">Club Atlético Peñarol </a>durante el año y mantenido por una PEÑA puede ser implementado con las siguientes propiedades:
  - <a href="https://schema.org/Thing" style="color: red;font-weight: 900;">Objeto</a> > <a href="https://schema.org/Property" style="color: red;font-weight: 900;">Propiedad</a> > <a href="https://schema.org/conditionsOfAccess">Formas de Acceso</a>
  
- {% highlight ld+json %}
+ {% highlight json %}
  <!-- ArchiveComponent with restricted access -->
 <script type="application/ld+json">
 {
