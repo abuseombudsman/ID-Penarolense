@@ -1,12 +1,6 @@
 ---
-permalink: /EtiquetasdeDatosEstructurados/
+permalink: /DatosEstructurados/
 title: "Etiquetas de Datos Estructurados según schema.org"
-author_profile: true
-header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: assets/images/wallpaper-3.jpg
-excerpt: ""
 ---
 
 Según <a href="http://schema.org">schema.org</a>, un archivo mantenido por una organización, como lo puede ser un archivo de partidos disputados por el <a href="http://peñarol.org">Club Atlético Peñarol </a>durante el año y mantenido por una PEÑA puede ser implementado con las siguientes propiedades:
