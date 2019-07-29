@@ -3,7 +3,8 @@ permalink: /DatosEstructurados/
 title: "DatosEstructurados"
 ---
 
-   ```jsonld
+   ``` jsonld
+   
    <!-- ArchiveComponent with restricted access -->
     <script type="application/ld+json">
     {
@@ -18,4 +19,5 @@ title: "DatosEstructurados"
         "url": "https://purl.stanford.edu/"
       }
     }</script>
+    
     ```
